@@ -1,0 +1,1 @@
+print("The first 3 numbers are {}, {} and {}.".format("one", "two", "three"))
